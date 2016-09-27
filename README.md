@@ -13,10 +13,8 @@ Sources listed by the article
 ------------------
 
 
-
-The initial version has manual data entry (copy and paste from an open browser), but later versions would automate much of the data entry (user pastes in URL, software searches that location and extracts the relevant data)
-
 The state of the software 27 Sept 2016:
+------------------------------------
 
 Running on a local server.
 Can enter an url.
@@ -25,7 +23,7 @@ Database searches and if already in system it displays the metadata (the actual 
 If not in Database the systems asks the user if it should be inserted.
 
 SOURCES & CITATIONS
-
+-------------------
 If the user copies and pastes the orginal articles sources (the other works quoted or refered to in a bibliography or sources list) the system offeres to check each of these - searching if in the system and offering to insert each source if not already in. 
 
 Example: An original article 'OA' has as a quoted source article 'SA'.
@@ -38,6 +36,7 @@ In this way it is possible not just to go from an article to its sources (which 
 
 
 CONNECTIONS & RECOMMENDATIONS
+-----------------------------
 
 A user who sees two articles on the same subject or two opposing views, or articles that should be brought to attention, can select the two and click the 'Connect' link. This will place a marker on each of the two articles to bring the other article to the attention of other users. (It works like the Source Citation system)
 
@@ -47,15 +46,19 @@ Users can look at the database, but to edit it in any way requires permission an
 Curators have several links:
 
 What I Curate
+--------------
 This displays all the articles you have entered into the database
 
 What I have seen
+------------------
 This is a history of the articles you have looked at
 
 What I remember
+---------------
 This displays all the articles you are currently telling the system to remember for you. (This is useful for creating source lists for your own projects or for quickly going between articles)
 
 What I Connected
+----------------
 Lists all those articles (in pairs) that you have said are related one to the other.
 
 
@@ -65,6 +68,7 @@ A user also sees if the article has been cited by any other article and what an 
 
 
 HELP
+-----
 
 Every link has an associated help file which is also stored within the database as an article which can be searched, cited or connected.
 
@@ -81,7 +85,7 @@ Help pages can be seen by anyone, but other text entry is only seen by permissio
 All of the above exists (27/09/2016) and is running on a local host server without internet connection.
 
 Future - 
-
+------------
 Needs to be on a shared server for others to show the broken bits that I am blind to.
 
 Security
